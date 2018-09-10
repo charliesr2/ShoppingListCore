@@ -9,14 +9,14 @@
     }
   },
   "profiles": {
-    "IIS Express": {
+    /*"IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
-    },
+    },*/
     "Configuration.WebApi": {
       "commandName": "Project",
       "launchBrowser": true,
